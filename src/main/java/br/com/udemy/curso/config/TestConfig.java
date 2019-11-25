@@ -7,8 +7,8 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Profile;
 
-import br.com.udemy.curso.entity.User;
-import br.com.udemy.curso.repository.UserRepository;
+import br.com.udemy.curso.entities.User;
+import br.com.udemy.curso.repositories.UserRepository;
 
 @Configuration
 @Profile("test")
