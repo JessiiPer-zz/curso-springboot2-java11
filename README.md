@@ -35,3 +35,8 @@
 
 ## Diagrama de objetos
 ![Diagrama de objetos](https://github.com/JessiiPer/curso-springboot2-java11/blob/master/src/main/resources/documents/Domain_Instance.PNG)
+
+## Autoria
+* Jessica Pereira Rocha
+
+Obs: Projeto do curso "Java Completo 2020 Programação Orientada a Objetos + Projetos", disponível na plataforma Udemy, ministrado pelo professor Nélio Alves.
